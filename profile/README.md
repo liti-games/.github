@@ -1,5 +1,5 @@
 ## Games
 
 * [chess](https://github.com/liti-games/chess)
-* [starreaeperz](https://github.com/liti-games/starreaeperz)
+* [starreaperz](https://github.com/liti-games/starreaperz)
 * [tate-runner](https://github.com/liti-games/tate-runner)
