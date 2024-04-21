@@ -1,5 +1,6 @@
 ## Games
 
+* [carin](https://github.com/liti-games/carin)
 * [chess](https://github.com/liti-games/chess)
 * [dungeon-game](https://github.com/liti-games/dungeon-game)
 * [pumpkin-keeper](https://github.com/liti-games/pumpkin-keeper)
