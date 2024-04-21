@@ -8,4 +8,5 @@
 * [gurknukem](https://github.com/liti-games/gurknukem)
 * [servus-bonus](https://github.com/liti-games/servus-bonus)
 * [starreaperz](https://github.com/liti-games/starreaperz)
+* [space-game](https://github.com/liti-games/space-game)
 * [tate-runner](https://github.com/liti-games/tate-runner)
