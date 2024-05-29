@@ -19,7 +19,7 @@
 * [pumpkin-keeper](https://github.com/liti-games/pumpkin-keeper)
 * [goin](https://github.com/liti-games/goin)
 * [gladiatorix](https://github.com/liti-games/gladiatorix)
-* [gurknukem](https://github.com/liti-games/gurknukem) [maven](https://github.com/liti-games/gurknukem/tree/maven)
+* [gurknukem](https://github.com/liti-games/gurknukem) branches: [vscode](https://github.com/liti-games/gurknukem/tree/vscode) [maven](https://github.com/liti-games/gurknukem/tree/maven)
 * [servus-bonus](https://github.com/liti-games/servus-bonus)
 * [starreaperz](https://github.com/liti-games/starreaperz)
 * [space-game](https://github.com/liti-games/space-game)
